@@ -9,4 +9,6 @@ Cultural Richness: Trekkers encounter Sherpa communities, Buddhist monasteries, 
 Personal Growth: The mental and physical demands foster resilience and self-discovery.
 Bragging Rights: Summiting a Himalayan peak is a badge of honor in the adventure community.
 
+Full dataset download: https://maven-datasets.s3.us-east-1.amazonaws.com/Himalayan+Expeditions/Himalayan+Expeditions.zip
+
 
